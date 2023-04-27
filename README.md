@@ -4,5 +4,6 @@
 - Also a clock in the form of text.
 - It has the date of the year.
 - Includes a light and dark theme and you can switch between them using the moon or the sun icon.
+- The preferred theme will be saved in the browser's local storage.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 #### Live Site URL : <a href="https://abdelrahmanalsayed.github.io/Analog_Clock/" target="_blank">Live Site</a>
